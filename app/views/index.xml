@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" fullscreen="true">
+		<WebView url="http://www.csc.com/"></WebView>
+	</Window>
+</Alloy>
